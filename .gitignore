@@ -1,0 +1,8 @@
+node_modules/
+.pnpm-store/
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+.env
+.DS_Store
